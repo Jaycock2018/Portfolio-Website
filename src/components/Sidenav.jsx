@@ -1,8 +1,8 @@
 import React, {useState} from 'react'
-import {AiOutlineMenu, AiOutlineHome, AiOutlineMail, AiFillInfoCircle} from 'react-icons/ai'
+import {AiOutlineMenu, AiOutlineHome, AiOutlineMail, AiOutlineInfoCircle} from 'react-icons/ai'
 import {BsPerson} from 'react-icons/bs'
 import {GrProjects} from 'react-icons/gr'
-import {MdWork} from 'react-icons/md'
+import {MdWorkOutline} from 'react-icons/md'
 
 const Sidenav = () => {
 
@@ -27,14 +27,14 @@ const Sidenav = () => {
               href="#info" 
               className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200'
               >
-              <AiFillInfoCircle size={20} />
+              <AiOutlineInfoCircle size={20} />
               <span className='pl-4'>About Me</span>
             </a>
             <a onClick={handleNav}
               href="#work" 
               className='w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200'
               >
-              <MdWork size={20} />
+              <MdWorkOutline size={20} />
               <span className='pl-4'>Work</span>
             </a>
             <a onClick={handleNav}
@@ -69,10 +69,10 @@ const Sidenav = () => {
               <AiOutlineHome size={20} />
             </a>
             <a href="#info" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
-              <AiFillInfoCircle size={20} />
+              <AiOutlineInfoCircle size={20} />
             </a>
             <a href="#work" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
-              <MdWork size={20} />
+              <MdWorkOutline size={20} />
             </a>
             <a href="#projects" className='rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-300'>
               <GrProjects size={20} />
