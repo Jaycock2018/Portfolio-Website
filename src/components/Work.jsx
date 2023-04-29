@@ -7,7 +7,7 @@ const data = [
         year: 2023,
         title: 'Accounts Payable Specialist',
         duration: '4 Months',
-        details: 'Experienced in managing and processing all aspects of accounts payable, including vendor payments, expense reports, and purchase orders. I am skilled in accurately maintaining financial records and ensuring timely payments while adhering to strict accounting policies and procedures.I managed and processed up to 300 vendor invoices and expense reports daily with 100% accuracy. '
+        details: 'Experienced in managing and processing all aspects of accounts payable, including vendor payments, expense reports, and purchase orders. I am skilled in accurately maintaining financial records and ensuring timely payments while adhering to strict accounting policies and procedures. I managed and processed up to 300 vendor invoices and expense reports daily with 100% accuracy. '
     },
     {
         year: 2022,
@@ -20,12 +20,6 @@ const data = [
         title: 'Correctional Officer III',
         duration: '8 Months',
         details: 'Maintained order and security within a high-security correctional facility housing over 1,000 inmates. I enforced facility rules and regulations, resulting in a 10% reduction in disciplinary infractions and a 20% decrease in incidents of violence among inmates. Through regular training and performance evaluations, I mentored and coached new and existing officers, resulting in a 15% increase in staff retention rates.',
-    },
-    {
-        year: 2018,
-        title: 'Pipe Fitter',
-        duration: '3 Months - Summer Job',
-        details: 'Installed, maintained, and repaired piping systems in a commercial setting. I read and interpreted blueprints, schematics, and other technical documents to accurately assemble and fit pipes to precise specifications, resulting in a 10% increase in overall production efficiency. Through the use of various tools and techniques, I effectively cut, thread, and bend pipes to ensure proper fit and alignment, resulting in a 15% reduction in product defects.',
     },
     {
         year: 2018,
