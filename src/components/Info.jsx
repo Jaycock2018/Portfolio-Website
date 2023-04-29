@@ -15,10 +15,41 @@ const Info = () => {
         <p className='text-center py-8'>
           If you're looking for a dedicated frontend developer who's eager to learn and grow, I would be thrilled to work with you. Let's create something amazing together!
         </p>
-        <h2 className='text-4xl font-bold text-center text-[#001b5e]'>Fun Facts</h2>
+        <h2 className='text-4xl font-bold text-center text-[#001b5e]'>Skills</h2>
         <ul className='text-center py-8'>
-          <li className='inline-block rounded-full py-2 px-4 bg-gray-200 text-gray-800 hover:bg-[#001b5e] hover:text-white transition duration-300 ease-in-out'>JavaScript</li>
-          
+          <li className='inline-block rounded-full py-2 px-4 m-1 bg-gray-200 text-gray-800 hover:bg-[#001b5e] hover:text-white transition duration-300 ease-in-out'>
+            JavaScript
+          </li>
+          <li className='inline-block rounded-full py-2 px-4 m-1 bg-gray-200 text-gray-800 hover:bg-[#001b5e] hover:text-white transition duration-300 ease-in-out'>
+            React.js
+          </li>
+          <li className='inline-block rounded-full py-2 px-4 m-1 bg-gray-200 text-gray-800 hover:bg-[#001b5e] hover:text-white transition duration-300 ease-in-out'>
+            HTML & CSS
+          </li>
+          <li className='inline-block rounded-full py-2 px-4 m-1 bg-gray-200 text-gray-800 hover:bg-[#001b5e] hover:text-white transition duration-300 ease-in-out'>
+            Tailwind CSS
+          </li>
+          <li className='inline-block rounded-full py-2 px-4 m-1 bg-gray-200 text-gray-800 hover:bg-[#001b5e] hover:text-white transition duration-300 ease-in-out'>
+            Node.js
+          </li>
+          <li className='inline-block rounded-full py-2 px-4 m-1 bg-gray-200 text-gray-800 hover:bg-[#001b5e] hover:text-white transition duration-300 ease-in-out'>
+            Git
+          </li>
+          <li className='inline-block rounded-full py-2 px-4 m-1 bg-gray-200 text-gray-800 hover:bg-[#001b5e] hover:text-white transition duration-300 ease-in-out'>
+            C#
+          </li>
+          <li className='inline-block rounded-full py-2 px-4 m-1 bg-gray-200 text-gray-800 hover:bg-[#001b5e] hover:text-white transition duration-300 ease-in-out'>
+            Microsft SQL Server
+          </li>
+          <li className='inline-block rounded-full py-2 px-4 m-1 bg-gray-200 text-gray-800 hover:bg-[#001b5e] hover:text-white transition duration-300 ease-in-out'>
+            Vite
+          </li>
+          <li className='inline-block rounded-full py-2 px-4 m-1 bg-gray-200 text-gray-800 hover:bg-[#001b5e] hover:text-white transition duration-300 ease-in-out'>
+            Bootstrap
+          </li>
+          <li className='inline-block rounded-full py-2 px-4 m-1 bg-gray-200 text-gray-800 hover:bg-[#001b5e] hover:text-white transition duration-300 ease-in-out'>
+            Microsoft Azure
+          </li>
         </ul>
       </div>
       <div className='flex-1 p-4 md:p-10 md:w-1/3 md:text-center md:flex items-center justify-center'>
