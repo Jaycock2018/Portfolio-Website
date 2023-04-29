@@ -21,9 +21,9 @@ const Info = () => {
       </div>
       <div className='flex-1 p-10'>
       <img
-  src='/doggies.jpg'
-  alt='My Dogs, Emma and Ivy'
-  className='object-contain h-full w-full rounded-xl transition-transform duration-300 ease-in-out hover:scale-110'
+        src='src/assets/doggies.jpg'
+        alt='My Dogs, Emma and Ivy'
+        className='object-contain h-full w-full rounded-xl transition-transform duration-300 ease-in-out hover:scale-110'
 />
 
       </div>
