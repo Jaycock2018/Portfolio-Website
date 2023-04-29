@@ -1,4 +1,5 @@
 import React from 'react';
+import doggies from '../assets/doggies.jpg';
 
 const Info = () => {
   return (
@@ -21,7 +22,7 @@ const Info = () => {
       </div>
       <div className='flex-1 p-4 md:p-10 md:w-1/3 md:text-center md:flex items-center justify-center'>
       <img
-            src='src/assets/doggies.jpg'
+            src={doggies}
             alt='My Dogs, Emma and Ivy'
             className='hidden md:block object-contain h-full w-full md:max-w-none md:w-full transition-transform duration-300 ease-in-out hover:scale-110'
             style={{ maxWidth: "300px", width: "100%" }}
